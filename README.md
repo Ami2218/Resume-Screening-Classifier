@@ -61,7 +61,21 @@ The model achieved approximately 84% recall for the Fit class.
 
 ## How to Run
 
+Clone the repository
+
+```bash
+git clone https://github.com/YOUR-USERNAME/Resume-Screening-Classifier.git
+cd Resume-Screening-Classifier
+```
+
 Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Run application:
+
+```bash
+streamlit run app.py
+```
